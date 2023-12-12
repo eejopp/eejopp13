@@ -1,0 +1,28 @@
+C:\Users\arina\OneDrive\Рабочий стол\Snake-master\Snake\bin\Debug\net6.0\Snake.exe
+C:\Users\arina\OneDrive\Рабочий стол\Snake-master\Snake\bin\Debug\net6.0\Snake.deps.json
+C:\Users\arina\OneDrive\Рабочий стол\Snake-master\Snake\bin\Debug\net6.0\Snake.runtimeconfig.json
+C:\Users\arina\OneDrive\Рабочий стол\Snake-master\Snake\bin\Debug\net6.0\Snake.dll
+C:\Users\arina\OneDrive\Рабочий стол\Snake-master\Snake\bin\Debug\net6.0\Snake.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Snake-master\Snake\obj\Debug\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arina\OneDrive\Рабочий стол\Snake-master\Snake\obj\Debug\net6.0\Snake.AssemblyInfoInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\Snake-master\Snake\obj\Debug\net6.0\Snake.AssemblyInfo.cs
+C:\Users\arina\OneDrive\Рабочий стол\Snake-master\Snake\obj\Debug\net6.0\Snake.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\Snake-master\Snake\obj\Debug\net6.0\Snake.dll
+C:\Users\arina\OneDrive\Рабочий стол\Snake-master\Snake\obj\Debug\net6.0\refint\Snake.dll
+C:\Users\arina\OneDrive\Рабочий стол\Snake-master\Snake\obj\Debug\net6.0\Snake.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Snake-master\Snake\obj\Debug\net6.0\Snake.genruntimeconfig.cache
+C:\Users\arina\OneDrive\Рабочий стол\Snake-master\Snake\obj\Debug\net6.0\ref\Snake.dll
+C:\Users\arina\OneDrive\Рабочий стол\мпт\ОАИП Скорокудаева\Snake-master\Snake\bin\Debug\net6.0\Snake.exe
+C:\Users\arina\OneDrive\Рабочий стол\мпт\ОАИП Скорокудаева\Snake-master\Snake\bin\Debug\net6.0\Snake.deps.json
+C:\Users\arina\OneDrive\Рабочий стол\мпт\ОАИП Скорокудаева\Snake-master\Snake\bin\Debug\net6.0\Snake.runtimeconfig.json
+C:\Users\arina\OneDrive\Рабочий стол\мпт\ОАИП Скорокудаева\Snake-master\Snake\bin\Debug\net6.0\Snake.dll
+C:\Users\arina\OneDrive\Рабочий стол\мпт\ОАИП Скорокудаева\Snake-master\Snake\bin\Debug\net6.0\Snake.pdb
+C:\Users\arina\OneDrive\Рабочий стол\мпт\ОАИП Скорокудаева\Snake-master\Snake\obj\Debug\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arina\OneDrive\Рабочий стол\мпт\ОАИП Скорокудаева\Snake-master\Snake\obj\Debug\net6.0\Snake.AssemblyInfoInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\мпт\ОАИП Скорокудаева\Snake-master\Snake\obj\Debug\net6.0\Snake.AssemblyInfo.cs
+C:\Users\arina\OneDrive\Рабочий стол\мпт\ОАИП Скорокудаева\Snake-master\Snake\obj\Debug\net6.0\Snake.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\мпт\ОАИП Скорокудаева\Snake-master\Snake\obj\Debug\net6.0\Snake.dll
+C:\Users\arina\OneDrive\Рабочий стол\мпт\ОАИП Скорокудаева\Snake-master\Snake\obj\Debug\net6.0\refint\Snake.dll
+C:\Users\arina\OneDrive\Рабочий стол\мпт\ОАИП Скорокудаева\Snake-master\Snake\obj\Debug\net6.0\Snake.pdb
+C:\Users\arina\OneDrive\Рабочий стол\мпт\ОАИП Скорокудаева\Snake-master\Snake\obj\Debug\net6.0\Snake.genruntimeconfig.cache
+C:\Users\arina\OneDrive\Рабочий стол\мпт\ОАИП Скорокудаева\Snake-master\Snake\obj\Debug\net6.0\ref\Snake.dll
